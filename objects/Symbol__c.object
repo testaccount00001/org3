@@ -53,10 +53,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Field1__c</fullName>
-        <description>descr
-&quot;quots&quot;
-AT&amp;T
-1 &gt;2</description>
+        <description>descr</description>
         <externalId>false</externalId>
         <label>Field1</label>
         <length>20</length>
